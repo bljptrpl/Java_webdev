@@ -21,3 +21,9 @@ i. create env in IntelliJ
 	Get? 
 3. Postman - client
 ![image](https://github.com/bljptrpl/Java_webdev/assets/79495801/0d12ffc8-fa21-4afa-8b9e-0770a3852cb7)
+
+
+Fixed bug by adding dependency to POM and updating Maven.
+![image](https://github.com/bljptrpl/Java_webdev/assets/79495801/190b6993-27fa-4fb7-9765-744018560366)
+
+![image](https://github.com/bljptrpl/Java_webdev/assets/79495801/64b4c8a9-2628-46ec-8c6e-806639c0b514)
