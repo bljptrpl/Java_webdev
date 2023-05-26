@@ -24,5 +24,6 @@ i. create env in IntelliJ
 
 
 Fixed bug by adding dependency to POM and updating Maven.
+
 ![image](https://github.com/bljptrpl/Java_webdev/assets/79495801/190b6993-27fa-4fb7-9765-744018560366)
 
